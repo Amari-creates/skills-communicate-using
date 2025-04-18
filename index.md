@@ -7,3 +7,6 @@ the changes made to this documentation is new added headers.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on github pages
+- [ ] outline my portfolio
+- [ ] Introduce myself to the world
